@@ -6,5 +6,6 @@
 # Descrição
 ```
 - Sistema de templates
+- Registro de contas com multiplo recaptcha (Padrão e Google v2)
 ```
 # Instalação
