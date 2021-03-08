@@ -11,5 +11,6 @@
 - Downloads
 - Informações
 - Login/Logout
+- Rankings
 ```
 # Instalação
