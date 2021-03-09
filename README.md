@@ -12,5 +12,6 @@
 - Informações
 - Login/Logout
 - Rankings
+- Página de erros (Se não existir página ou a página desativada)
 ```
 # Instalação
